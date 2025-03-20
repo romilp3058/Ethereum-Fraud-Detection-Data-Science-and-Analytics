@@ -1,0 +1,1 @@
+This project applies machine learning techniques to detect fraudulent Ethereum transactions. Using feature selection methods and classifiers like XGBoost, KNN, and Decision Trees, we identify the most effective model and feature set for fraud detection. 
